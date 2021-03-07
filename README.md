@@ -2,7 +2,7 @@
 
 A simple snake implementation in python
 
-live demo at: https://repl.it/@StephensNunnall/pysnake#main.py
+live web demo: https://repl.it/@StephensNunnall/pysnake#main.py
 
 ## Screenshots:
 
@@ -10,6 +10,6 @@ live demo at: https://repl.it/@StephensNunnall/pysnake#main.py
 
 ## Thanks to these libraries
 
-- Pygame (LGPL): https://github.com/pygame/
+- Pygame (LGPL): https://github.com/pygame/pygame
 - Pygcurse (BSD): https://github.com/asweigart/pygcurse
 
