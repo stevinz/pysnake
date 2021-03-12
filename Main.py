@@ -84,7 +84,7 @@ def draw_screen():
             win.fill('#', 'black', 'black', region=(pos[i][0], pos[i][1], 1, 1))
         else:
             win.fill('#', 'red', 'red', region=(pos[i][0], pos[i][1], 1, 1))
-            win.putchars("PRESS SPACEBAR TO RESET", 8, 12, 'blue')
+            win.putchars("PRESS SPACEBAR TO RESET", 8, 10, 'blue')
 
     for i in range(0, WINWIDTH):
         for j in range(0, WINHEIGHT):
